@@ -1,0 +1,1 @@
+var json_StartPoint_3 = {"type":"FeatureCollection","name":"StartPoint_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Start at":"Depok Beach Intersection"},"geometry":{"type":"Point","coordinates":[110.2945349741,-8.011100962]}}]}

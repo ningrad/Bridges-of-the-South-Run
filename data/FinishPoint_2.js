@@ -1,0 +1,1 @@
+var json_FinishPoint_2 = {"type":"FeatureCollection","name":"FinishPoint_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Finish at":"U-Turn Point"},"geometry":{"type":"Point","coordinates":[110.2107403698,-7.9749129916]}}]}
